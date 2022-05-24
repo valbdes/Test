@@ -1,0 +1,32 @@
+html{
+    scroll-behavior: smooth;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.container{
+    
+    width: 1060px;
+    margin: 0 auto;
+}
+.image{
+    
+    display: block;
+    margin: 0 auto ;
+    width: 1060px;
+}
+.content{
+    margin: 20px auto;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #626262;
+}
+.content__link{
+    font-family: 'Ubuntu', sans-serif;
+    color: rgba(98, 98, 98, 0,5);
+    font-size: 14px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    text-decoration: none;
+}
